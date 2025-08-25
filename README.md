@@ -50,7 +50,7 @@ Our domains of destruction include:
 
 ---
 
-## 📧 Contact
+## Contact
 For inquiries or to join us in future CTFs:  
 📩 **0xdeadfa11.team@gmail.com**
 
