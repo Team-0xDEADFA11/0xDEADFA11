@@ -46,7 +46,7 @@ Our domains of destruction include:
 
 
 ## Website
-➡️ [0xdeadfa11.vercel.app](https://0xdeadfa11.vercel.app/)
+[0xdeadfa11.vercel.app](https://0xdeadfa11.vercel.app/)
 
 ---
 
